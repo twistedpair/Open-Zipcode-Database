@@ -9,4 +9,4 @@ Lauf Labs LLC has written a few chestnuts along the way of producing RunPartner.
 We're less credulous than that, so we built our own. And we present that to you, the more discerning developers of the world to use. And, for good measure, we've also included the script to refresh the zipcode list should you ever need to freshen up.
 
 ##Genesis
-This repo started as the following, [blog post](httphttps://lustforge.com/2011/07/20/really-free-zipcode-database-download/).
+This repo started as the following, [blog post](https://lustforge.com/2011/07/20/really-free-zipcode-database-download/).
